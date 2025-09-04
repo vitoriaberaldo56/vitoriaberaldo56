@@ -10,7 +10,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER e t
         <img 
             alt="contato via WhatsApp" 
             title="Entre em contato!" 
-            src="https://custom-icon-badges.demolab.com/badge/-35--99942--2441-25D366?style=for-the-badge&logo=phone&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-35--9942--2441-25D366?style=for-the-badge&logo=phone&logoColor=white"
         />
     </a>
     <a href="mailto:vitoriaberaldo56@gmail.com">
@@ -80,4 +80,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powers
 ### 🖥️ IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Vim](https://img.shields.io/badge/SUBLIME%20TEXT-d8e309.svg?style=for-the-badge&=vim&logoColor=white)&nbsp;
+![sublime text](https://img.shields.io/badge/SUBLIME%20TEXT-d8e309.svg?style=for-the-badge&=sublime-text&logoColor=white)&nbsp;
+![DBeaver](https://img.shields.io/badge/DBEAVER-c416f0.svg?style=for-the-badge&=DBeaver&logoColor=white)&nbsp;

@@ -10,7 +10,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER e t
         <img 
             alt="contato via WhatsApp" 
             title="Entre em contato!" 
-            src="https://custom-icon-badges.demolab.com/badge/-35--9942--2441-25D366?style=for-the-badge&logo=phone&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-35--99942--2441-25D366?style=for-the-badge&logo=phone&logoColor=white"
         />
     </a>
     <a href="mailto:vitoriaberaldo56@gmail.com">
